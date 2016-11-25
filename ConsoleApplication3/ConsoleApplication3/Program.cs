@@ -68,6 +68,11 @@ namespace SQL
                     Console.WriteLine("error: "+e);
                     Console.ReadKey();
                 }
+                catch(Exception e)
+                {
+                    Console.WriteLine("Error" + e);
+                    Console.ReadKey();
+                }
             }
         }
     }

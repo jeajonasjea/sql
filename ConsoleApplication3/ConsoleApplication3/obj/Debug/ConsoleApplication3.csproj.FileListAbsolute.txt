@@ -4,3 +4,9 @@ C:\Users\jea10\Source\Repos\09\ConsoleApplication3\ConsoleApplication3\bin\Debug
 C:\Users\jea10\Source\Repos\09\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
 C:\Users\jea10\Source\Repos\09\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
 C:\Users\jea10\Source\Repos\09\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\jea10\OneDrive\Dokumenter\GitHub\sql\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\jea10\OneDrive\Dokumenter\GitHub\sql\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\jea10\OneDrive\Dokumenter\GitHub\sql\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\jea10\OneDrive\Dokumenter\GitHub\sql\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\jea10\OneDrive\Dokumenter\GitHub\sql\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\jea10\OneDrive\Dokumenter\GitHub\sql\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
